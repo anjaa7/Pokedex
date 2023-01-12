@@ -1,8 +1,8 @@
 let model;
 
-const modelURL = 'https://raw.githubusercontent.com/theRoughCode/Pokedex/master/js_models/mobilenet_128x128/model.json';
+const modelURL = 'https://raw.githubusercontent.com/anjaa7/Pokedex/main/js_models/mobilenet_128x128/model.json?token=GHSAT0AAAAAAB5KSLQDD3TR5TTUI6QYQQWKY57QDJA';
 const modelIndexDbUrl = 'indexeddb://pokenet-model';
-const weightsURLPrefix = 'https://github.com/theRoughCode/Pokedex/raw/master/js_models/mobilenet_128x128';
+const weightsURLPrefix = 'https://github.com/anjaa7/Pokedex/tree/main/js_models/mobilenet_128x128';
 
 const pokemonNames = ['Abra', 'Aerodactyl', 'Alakazam', 'Alolan Sandslash', 'Arbok', 'Arcanine',
 'Articuno', 'Beedrill', 'Bellsprout', 'Blastoise', 'Bulbasaur', 'Butterfree',

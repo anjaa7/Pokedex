@@ -1,0 +1,6 @@
+ipynb_checkpoints/
+__pycache__/
+PokemonData/
+saved_model/
+*.ipynb
+*.zip
